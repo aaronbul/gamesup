@@ -155,16 +155,6 @@ KNN_K=3
 
 Ce projet est développé dans le cadre d'une étude de cas académique.
 
-## 👥 Auteurs
-
-- Développé dans le cadre du Master en Conception avancée de l'architecture de logiciel
-
-## 🙏 Remerciements
-
-- Spring Boot pour le framework backend
-- FastAPI pour l'API Python
-- L'équipe pédagogique pour l'encadrement
-
 ---
 
 ⭐ N'hésitez pas à donner une étoile si ce projet vous a été utile ! 
